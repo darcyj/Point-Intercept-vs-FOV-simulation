@@ -1,1 +1,6 @@
 # Point-Intercept-vs-FOV-simulation
+# A simulation written in R to determine the relationship between two methods of evaluating the coverage of microbial phototrophs in soil microcosm experiments. 
+# This simulation is referenced in Darcy et al. 2016.
+
+# Darcy JL and Schmidt SK (2016) Nutrient limitation of microbial phototrophs on a debris-covered glacier. Soil Biology and Biochemistry 95: 156-163
+
